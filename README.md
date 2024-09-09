@@ -1,9 +1,7 @@
 Continuous Integration Demo
 ===========================
 
-[![Flake8](https://github.com/opxz7148/ci-demo/actions/workflows/python-flake8.yml/badge.svg)](https://github.com/opxz7148/ci-demo/actions/workflows/python-flake8.yml)
-
-[![Python unittest](https://github.com/opxz7148/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/opxz7148/ci-demo/actions/workflows/python-unittest.yml)
+[![Flake8](https://github.com/opxz7148/ci-demo/actions/workflows/python-flake8.yml/badge.svg)](https://github.com/opxz7148/ci-demo/actions/workflows/python-flake8.yml) [![Python unittest](https://github.com/opxz7148/ci-demo/actions/workflows/python-unittest.yml/badge.svg)](https://github.com/opxz7148/ci-demo/actions/workflows/python-unittest.yml)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 
